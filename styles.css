@@ -1,0 +1,72 @@
+/* CSS styles for your quiz game */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Make the body full height of the viewport */
+  }
+  
+  .container {
+    max-width: 600px;
+    padding: 20px;
+  }
+  
+  #question-container {
+    margin-top: 30px;
+    font-size: 20px;
+  }
+  
+  #answers-container {
+    margin-top: 20px;
+  }
+  
+  .answer-btn {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .answer-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  #next-btn {
+    display: block;
+    margin-top: 20px;
+    width: 100%;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #next-btn:hover {
+    background-color: #218838;
+  }
+  
+  #score {
+    margin-top: 20px;
+    font-size: 18px;
+    text-align: center;
+  }
+  
+  #feedback {
+    margin-top: 10px;
+    font-size: 16px;
+    text-align: center;
+  }
+  
