@@ -53,5 +53,55 @@
         "question": "What is the purpose of DNS in computer networks?",
         "answers": ["To translate domain names to IP addresses", "To encrypt data during transmission", "To provide secure communication channels", "To block access to certain websites"],
         "correctAnswer": "To translate domain names to IP addresses"
-      }  
+      }, 
+      {
+        "question": "What does PHP stand for?",
+        "answers": ["Personal Home Page", "Hypertext Preprocessor", "Private Hosting Platform", "Public Hypertext Parser"],
+        "correctAnswer": "Hypertext Preprocessor"
+      },
+      {
+        "question": "Which programming language is primarily used for mobile app development?",
+        "answers": ["JavaScript", "Swift", "Ruby", "C++"],
+        "correctAnswer": "Swift"
+      },
+      {
+        "question": "What is the purpose of SQL in databases?",
+        "answers": ["To style web pages", "To define the structure of web pages", "To query and manipulate data", "To manage hardware resources"],
+        "correctAnswer": "To query and manipulate data"
+      },
+      {
+        "question": "What does IoT stand for?",
+        "answers": ["Internet of Things", "Intelligent Operating Technology", "Input/Output Transmission", "Internal Object Tracking"],
+        "correctAnswer": "Internet of Things"
+      },
+      {
+        "question": "Which programming language is commonly used for data analysis and machine learning?",
+        "answers": ["Python", "Java", "C#", "PHP"],
+        "correctAnswer": "Python"
+      },
+      {
+        "question": "What is the purpose of a VPN?",
+        "answers": ["To increase the speed of internet connection", "To provide secure communication channels", "To perform file management tasks", "To store data in databases"],
+        "correctAnswer": "To provide secure communication channels"
+      },
+      {
+        "question": "Which of the following is a popular front-end framework for web development?",
+        "answers": ["Django", "Angular", "Flask", "Laravel"],
+        "correctAnswer": "Angular"
+      },
+      {
+        "question": "What does SSL stand for?",
+        "answers": ["Secure Socket Layer", "Secure System Language", "System Software Library", "Service Security Layer"],
+        "correctAnswer": "Secure Socket Layer"
+      },
+      {
+        "question": "Which of the following is NOT a commonly used database management system?",
+        "answers": ["MySQL", "MongoDB", "PostgreSQL", "Node.js"],
+        "correctAnswer": "Node.js"
+      },
+      {
+        "question": "What is the purpose of a CDN?",
+        "answers": ["To increase the speed of internet connection", "To provide secure communication channels", "To deliver content quickly to users", "To manage hardware resources"],
+        "correctAnswer": "To deliver content quickly to users"
+      }
   ]

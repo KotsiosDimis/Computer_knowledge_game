@@ -1,7 +1,8 @@
-/* CSS styles for your quiz game */
+/* Dark mode styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #222; /* Dark background */
+    color: #fff; /* Light text color */
     margin: 0;
     padding: 0;
     display: flex;
@@ -30,15 +31,15 @@ body {
     margin-bottom: 10px;
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #007bff;
-    color: #fff;
+    background-color: #007bff; /* Blue button color */
+    color: #fff; /* Light text color */
     border: none;
     border-radius: 5px;
     cursor: pointer;
   }
   
   .answer-btn:hover {
-    background-color: #0056b3;
+    background-color: #0056b3; /* Darker blue on hover */
   }
   
   #next-btn {
@@ -47,15 +48,15 @@ body {
     width: 100%;
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #28a745;
-    color: #fff;
+    background-color: #28a745; /* Green button color */
+    color: #fff; /* Light text color */
     border: none;
     border-radius: 5px;
     cursor: pointer;
   }
   
   #next-btn:hover {
-    background-color: #218838;
+    background-color: #218838; /* Darker green on hover */
   }
   
   #score {
